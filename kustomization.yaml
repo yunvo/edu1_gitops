@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: icishub.azurecr.io/shclub/edu1
+- name: azureyv.azurecr.io/yunvo/edu1_forked
   newTag: "v1"
