@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: edu1
-        image: icishub.azurecr.io/shclub/edu1
+        image: azureyv.azurecr.io/yunvo/edu1_forked
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
